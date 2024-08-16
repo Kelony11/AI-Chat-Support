@@ -9,7 +9,9 @@ This project is a simple replica of Chat GPT that assist users with any kind of 
 
 
 # SCREENSHOTS
-Web Page - <img >
+Web Page - <img width="971" alt="Screenshot 2024-08-15 at 11 12 01 PM" src="https://github.com/user-attachments/assets/22ead59e-d505-4d1b-a3ef-1e93767abc79">
+
+
 
 
 # TECHNICAL STACK 🧱
